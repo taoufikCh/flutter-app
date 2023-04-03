@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791425532916",
+    "project_id": "voyage-eb19e",
+    "storage_bucket": "voyage-eb19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791425532916:android:8f04909f8b73669a5fafa1",
+        "android_client_info": {
+          "package_name": "com.example.voyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791425532916-8jji01mdnjtp5a9eim3kmrbaq5qg4rid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDShjkVz-rOgPGVYhOPRSCP6FQp-lpnOkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791425532916-8jji01mdnjtp5a9eim3kmrbaq5qg4rid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
